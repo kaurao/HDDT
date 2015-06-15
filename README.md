@@ -2,6 +2,8 @@
 
 ## Hellinger distance decision tree
 
+### This is largely UNTESTED so USE AT YOUR OWN RISK
+
 The R file contains functions to create Hellinger distance decision tree (HDDT) given training data.
 It also provides a function to use a learned decision tree to predict new data. 
 
